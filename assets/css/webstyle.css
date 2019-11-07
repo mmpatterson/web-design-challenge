@@ -1,0 +1,29 @@
+.box {
+    min-height: 50px;
+    padding: 20px;
+    margin: 5px;
+    font-weight: 800;
+    background-color: rgb(255, 255, 255);
+  }
+
+.navbar-brand {
+    height: 40px;
+    padding: 10px;
+    background-color: rgb(57, 207, 175);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+.float-left {
+    height:160px;
+    width:160px;
+}
+
+.float-right {
+    height:160px;
+    width:160px;
+}
