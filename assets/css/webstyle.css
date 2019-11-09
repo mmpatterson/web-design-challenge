@@ -9,14 +9,13 @@
 .navbar-brand {
     height: 40px;
     padding: 10px;
+    color: #ffffff;
     background-color: rgb(57, 207, 175);
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 22px;
     line-height: 30px;
-    color: #ffffff;
     text-align: center;
 }
-
 
 .float-left {
     height:160px;
